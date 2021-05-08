@@ -24,6 +24,7 @@
   transition: 250ms ease-in-out;
 }
 .pokecard img:hover {
+  filter: drop-shadow(3px 3px 3px black);
   transform: scale(1.2);
   opacity: 0.8;
 }
